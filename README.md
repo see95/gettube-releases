@@ -5,7 +5,7 @@
 <h1 align="center">GETTUBE</h1>
 
 <p align="center">
-  <strong>A premium high-performance desktop application for downloading media from YouTube and other platforms. Built with speed and reliability in mind, it provides seamless downloading capabilities using robust backend tools.</strong>
+  <strong>A premium high-performance desktop application for downloading media from YouTube. Built with speed and reliability in mind, it provides seamless downloading capabilities using robust backend tools.</strong>
 </p>
 
 ---
