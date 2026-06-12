@@ -1,0 +1,31 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Liquid Neon Cyan Gradient -->
+    <linearGradient id="neonCyanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d2ff" />
+      <stop offset="100%" stop-color="#005fbc" />
+    </linearGradient>
+    
+    <!-- Liquid Premium Silver Gradient -->
+    <linearGradient id="liquidSilver" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#edf2f7" />
+      <stop offset="100%" stop-color="#cbd5e1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Circular Premium Cosmic Dark Background (Expanded from 900x900 to 1000x1000 to maximize size) -->
+  <rect x="12" y="12" width="1000" height="1000" rx="500" fill="#ffffff"/>
+
+  <!-- Logo Group Scaled and Perfectly Centered Optically (1.20x Scale, Y-Center adjusted to 485 to balance visual weight) -->
+  <g transform="translate(512, 512) scale(1.20) translate(-512, -485)">
+    <!-- Top Liquid Cyan Fill -->
+    <path d="M252.675 295.384L226.094 240.892C219.598 227.576 229.33 212.067 244.146 212.124L779.778 214.184C794.612 214.241 804.224 229.86 797.59 243.128L771.374 295.56C767.986 302.335 761.061 306.615 753.485 306.615H490.502C475.637 306.615 465.967 322.256 472.61 335.553L552.86 496.19C555.656 501.788 555.671 508.373 552.901 513.984L533.918 552.424C526.633 567.176 505.644 567.312 498.169 552.655L378.25 317.529C374.834 310.831 367.951 306.615 360.433 306.615H270.65C263.004 306.615 256.027 302.256 252.675 295.384Z" fill="url(#neonCyanGrad)"/>
+    
+    <!-- Bottom Liquid Silver Fill -->
+    <path d="M348.331 341.231H307.64C292.765 341.231 283.095 356.892 289.759 370.191L493.265 776.316C500.641 791.036 521.661 791.013 529.038 776.293L732.51 370.233C739.174 356.934 729.526 341.231 714.651 341.231H550.882C535.886 341.231 526.224 357.124 533.127 370.437L560.249 422.745C563.688 429.376 570.535 433.538 578.005 433.538H584.632C599.532 433.538 609.2 449.247 602.487 462.55L529.127 607.909C521.709 622.608 500.701 622.548 493.366 607.808L366.236 352.321C362.855 345.526 355.92 341.231 348.331 341.231Z" fill="#000000"/>
+    
+    <!-- Sleek High-Contrast White Outlines (Thickened to 8px for crystal-clear taskbar rendering) -->
+    <path d="M348.331 341.231H307.64C292.765 341.231 283.095 356.892 289.759 370.191L493.265 776.316C500.641 791.036 521.661 791.013 529.038 776.293L732.51 370.233C739.174 356.934 729.526 341.231 714.651 341.231H550.882C535.886 341.231 526.224 357.124 533.127 370.437L560.249 422.745C563.688 429.376 570.535 433.538 578.005 433.538H584.632C599.532 433.538 609.2 449.247 602.487 462.55L529.127 607.909C521.709 622.608 500.701 622.548 493.366 607.808L366.236 352.321C362.855 345.526 355.92 341.231 348.331 341.231Z" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
