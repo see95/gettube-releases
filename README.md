@@ -10,16 +10,16 @@
 
 ---
 
-## ðŸ“¥ Downloads
+## 📥 Downloads
 You can find the latest stable installers in the **[Releases](https://github.com/see95/gettube-releases/releases)** section.
 
-## ðŸš€ Key Features
+## 🚀 Key Features
 * **High-Speed Downloads:** Powered by yt-dlp & aria2c for maximum throughput.
 * **Format Diversity:** Download high-quality video (MP4) and audio (MP3) formats.
 * **Smart Auto-Updates:** Seamless background updates ensure you always run the latest version.
 * **Premium User Experience:** Modern, clean, and intuitive user interface.
 
-## ðŸ”‘ Account Activation Required
+## 🔑 Account Activation Required
 > [!IMPORTANT]
 > **After logging into the application, your account must be activated to access downloading features.**
 > 
