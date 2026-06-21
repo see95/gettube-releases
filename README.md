@@ -19,10 +19,4 @@ You can find the latest stable installers in the **[Releases](https://github.com
 * **Smart Auto-Updates:** Seamless background updates ensure you always run the latest version.
 * **Premium User Experience:** Modern, clean, and intuitive user interface.
 
-## 🔑 Account Activation Required
-> [!IMPORTANT]
-> **After logging into the application, your account must be activated to access downloading features.**
-> 
-> To activate your account:
-> 1. Join our Discord server: **[Join GETTUBE Discord](https://discord.gg/QgbQpRMC)**
-> 2. Contact the administrator on Discord to request account activation.
+
